@@ -1,0 +1,765 @@
+@media (min-width: 1500px) {
+  .main .main_banner .whole_banner .banner_sec .banner_img_slider img {
+    height: 500px;
+  }
+}
+
+@media (max-width: 1250px) {
+  .main .main_banner .banner_img_slider .banner .on_img_cont {
+    position: absolute;
+    top: 24%;
+    right: 7%;
+  }
+  .main .main_banner .whole_banner .search_nursery h6 {
+    padding: 0.8rem 1.6rem 0.6rem 1.6rem;
+    font-size: 0.95rem;
+  }
+
+  .main .main_banner .whole_banner .news_trends h6 {
+    font-size: 13px;
+  }
+
+  .main .main_banner .banner_img_slider .banner .on_img_cont h1 {
+    font-size: 72px;
+  }
+
+  .main .main_banner .banner_img_slider .banner .on_img_cont h3 {
+    font-size: 50px;
+  }
+
+  .main .main_banner .whole_banner .search_nursery .radio .rad_btn {
+    font-size: 13px;
+    margin-bottom: 0rem;
+  }
+
+  .main .main_banner .whole_banner .search_type .search_btns:nth-of-type(1),
+  .main .main_banner .whole_banner .search_type .search_btns:nth-of-type(3) {
+    margin-left: 0.5rem;
+    font-size: 13px;
+  }
+
+  .main .main_banner .whole_banner .search_type .search_form {
+    padding: 0.5rem 1rem;
+  }
+  .main .main_banner .whole_banner .search_type .search_form input {
+    font-size: 13px;
+    padding: 5px 11px;
+  }
+
+  .main .main_banner .whole_banner .search_type .search_form button {
+    padding: 4px 21px;
+    font-size: 12px;
+  }
+
+  .main .main_banner .whole_banner .news_trends .news:nth-of-type(2) {
+    margin-bottom: 0;
+  }
+
+  .main .main_banner .whole_banner .news_trends .news p {
+    font-size: 12px;
+  }
+
+  .main .main_banner .whole_banner .news_trends .view_all a {
+    font-size: 13px;
+  }
+
+  .main .main_banner .whole_banner .banner_sec .count_values .count .counts p {
+    font-size: 0.9rem;
+  }
+  .main .main_banner .whole_banner .banner_sec .count_values .count .counts h2 {
+    font-size: 2.4rem;
+  }
+
+  .main .about_portal_banner .portal_text .portal_left h5,
+  .main .featured_nurseries h5,
+  .main .nursery_portal .nursery_portal_text h5 {
+    font-size: 30px;
+  }
+
+  .main .about_portal_banner .portal_text .portal_left p {
+    font-size: 13px;
+  }
+
+  .main .buyer_sell_section .tab button {
+    font-size: 16px;
+  }
+
+  .main .nursery_portal .nursery_portal_bg {
+    background-size: auto;
+    background-position: 100% 100%;
+  }
+
+  .main .nursery_portal .nursery_portal_text h5 {
+    font-size: 28px;
+  }
+  .main .nursery_portal .nursery_portal_text h6 {
+    font-size: 21px;
+    margin-bottom: 1.2rem;
+  }
+
+  .main .nursery_portal .nursery_portal_text p {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .main .third_navbar .navbar ul li a {
+    font-size: 12px;
+  }
+  .main .main_banner .whole_banner .banner_sec {
+    width: 65%;
+  }
+  .main .main_banner .whole_banner .search_nursery {
+    width: 35%;
+  }
+  .main .main_banner .whole_banner .banner_sec .banner_img_slider img {
+    height: auto;
+  }
+  .main .main_banner .banner_img_slider .banner .on_img_cont {
+    right: 10%;
+  }
+  .main .main_banner .banner_img_slider .banner .on_img_cont h1 {
+    font-size: 60px;
+  }
+  .main .main_banner .banner_img_slider .banner .on_img_cont h3 {
+    font-size: 45px;
+  }
+  .main .main_banner .whole_banner .search_nursery .radio .rad_btn,
+  .main .main_banner .whole_banner .news_trends .news:nth-of-type(2) {
+    margin-bottom: 0;
+  }
+  .main .main_banner .whole_banner .search_type .search_form button {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+  .main .main_banner .whole_banner .search_nursery h6,
+  .main .main_banner .whole_banner .news_trends h6 {
+    margin-bottom: 0;
+  }
+  .main .main_banner .whole_banner .search_nursery h6,
+  .main .main_banner .whole_banner .news_trends h6,
+  .main .main_banner .whole_banner .search_type .search_form,
+  .main .main_banner .whole_banner .news_trends .news,
+  .main .main_banner .whole_banner .search_nursery .radio {
+    padding: 0.5rem 1rem;
+  }
+  .main .main_banner .whole_banner .banner_sec .count_values .count .counts {
+    padding: 2.4rem 1.5rem;
+  }
+  .main
+    .main_banner
+    .whole_banner
+    .banner_sec
+    .count_values
+    .count
+    .counts
+    .count_texts {
+    margin: auto;
+    margin-left: 1rem;
+  }
+
+  .main
+    .buyer_sell_section
+    .tabcontent
+    .summary_count
+    .summary_blk:not(:last-of-type) {
+    margin-right: 4rem;
+  }
+  .main .buyer_sell_section .tabcontent .summary_count .summary_blk {
+    width: auto;
+  }
+
+  .main
+    .buyer_sell_section
+    .tabcontent
+    .buy_sell_sliders
+    .card
+    .card_inner
+    .card_text
+    h6 {
+    font-size: 13px;
+  }
+
+  .main
+    .buyer_sell_section
+    .tabcontent
+    .buy_sell_sliders
+    .card
+    .card_inner
+    .card_text
+    p {
+    font-size: 13px;
+  }
+
+  .main .nursery_portal .nursery_portal_bg {
+    background-position: 43% 100%;
+  }
+}
+
+@media (max-width: 1024px) {
+  .main .first_navbar .contact_details a:nth-of-type(1) {
+    margin-right: 2.6rem;
+  }
+  .main .third_navbar .navbar ul li:nth-of-type(1) a {
+    padding-left: 0px !important;
+  }
+  .main .third_navbar .navbar ul li a {
+    padding: 5px 20px;
+  }
+  .main .main_banner .whole_banner .news_trends .news:nth-of-type(2) {
+    margin-bottom: 0.5rem;
+  }
+  .main .main_banner .whole_banner .banner_sec .count_values .count .counts {
+    padding: 1.8rem 0.5rem;
+  }
+  .footer .footer_one .footer_logo_section p {
+    margin-top: 1rem;
+    width: 95%;
+  }
+  .footer .footer_one .total_visitors {
+    margin-top: 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .main .third_navbar .navbar ul li:nth-of-type(1) a {
+    padding-left: 25px !important;
+  }
+  .footer {
+    padding: 0.5rem 1rem;
+  }
+  .footer .footer_one {
+    margin-bottom: 2rem;
+  }
+  .footer .footer_one .quick_links {
+    margin-top: 1rem;
+  }
+  .footer .footer_one .total_visitors {
+    text-align: left;
+    margin-top: 1rem;
+  }
+  .footer .footer_one .total_visitors .footer_social_handles {
+    justify-content: left;
+  }
+  .footer .footer_one .footer_logo_section p {
+    width: 95%;
+    margin-top: 1rem;
+  }
+}
+
+@media (min-width: 767px) and (max-width: 1024px) {
+  .main .portal_right {
+    display: none;
+  }
+  .main .main_banner .whole_banner .banner_sec {
+    width: 60%;
+  }
+  .main .main_banner .whole_banner .search_nursery {
+    width: 40%;
+  }
+  .main .main_banner .banner_img_slider .banner .on_img_cont h1 {
+    font-size: 40px;
+  }
+  .main .main_banner .banner_img_slider .banner .on_img_cont h3 {
+    font-size: 30px;
+  }
+  .main .main_banner .whole_banner .banner_sec .count_values .count .counts {
+    padding: 1.7rem 0.5rem;
+  }
+  .main
+    .main_banner
+    .whole_banner
+    .banner_sec
+    .count_values
+    .count
+    .counts
+    .count_texts {
+    margin: auto;
+    margin-left: 0.4rem;
+  }
+  .main .main_banner .whole_banner .search_type .search_btns:nth-of-type(1),
+  .main .main_banner .whole_banner .search_type .search_btns:nth-of-type(3) {
+    margin-left: 0.5rem;
+  }
+  .main .main_banner .whole_banner .search_type .search_form,
+  .main .main_banner .whole_banner .search_nursery .radio,
+  .main .main_banner .whole_banner .news_trends .news {
+    padding: 0.5rem;
+    padding-top: 0;
+  }
+  .main .main_banner .whole_banner .search_type .search_form button {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+  .main .main_banner .whole_banner .news_trends h6,
+  .main .main_banner .whole_banner .search_nursery .radio .rad_btn,
+  .main .main_banner .whole_banner .news_trends .news:nth-of-type(2) {
+    margin-bottom: 0;
+  }
+  .main .main_banner .whole_banner .news_trends .news p {
+    font-size: 12px;
+  }
+  .main .main_banner .whole_banner .news_trends .news .date {
+    font-size: 10px;
+  }
+  .main .main_banner .whole_banner .search_type .search_btns {
+    font-size: 10px;
+  }
+  .main .main_banner .whole_banner .search_type .search_form input {
+    padding: 5px;
+  }
+  .main .main_banner .whole_banner .search_type .search_form,
+  .main .main_banner .whole_banner .news_trends .news {
+    padding-bottom: 0;
+  }
+  .main .about_portal_banner .portal_bg {
+    height: 300px;
+  }
+  .main .main_banner .whole_banner .banner_sec .banner_img_slider img {
+    height: 250px;
+  }
+  .main .about_portal_banner .portal_text .portal_left h5,
+  .main .featured_nurseries h5,
+  .main .nursery_portal .nursery_portal_text h5 {
+    font-size: 20px;
+    margin-bottom: 0.5rem;
+  }
+  .main .about_portal_banner .portal_text .portal_left {
+    width: 55%;
+    left: 32%;
+  }
+  .main .about_portal_banner .portal_text .portal_left p {
+    margin-bottom: 0;
+    font-size: 16px;
+  }
+  .main .buyer_sell_section,
+  .main .featured_nurseries {
+    padding: 2rem 1rem;
+  }
+  .main .buyer_sell_section .tabcontent .summary_count .summary_blk {
+    width: 18%;
+  }
+  .main .featured_nurseries .featured_nursery_slider .stars img {
+    width: 60%;
+  }
+  .main .featured_nurseries .featured_nursery_slider {
+    margin-top: 1rem;
+  }
+  .main .featured_nurseries .featured_nursery_slider .card {
+    margin-bottom: 1rem;
+  }
+  .main .nursery_portal .nursery_portal_bg {
+    height: 400px;
+  }
+  .main .nursery_portal .nursery_portal_text {
+    width: 55%;
+    left: 70%;
+  }
+}
+
+@media (min-width: 577px) and (max-width: 766px) {
+  .main .third_navbar .navbar ul li:nth-of-type(1) a {
+    padding-left: 25px !important;
+  }
+  .main .first_navbar .contact_details a:nth-of-type(1) {
+    margin-right: 0.5rem;
+  }
+  .main .first_navbar ul {
+    padding-left: 0;
+  }
+  .main .second_navbar .main_logos img {
+    width: 90%;
+    margin: 0 auto;
+  }
+  .main .main_banner .banner_img_slider .banner .on_img_cont h1 {
+    font-size: 45px;
+  }
+  .main .main_banner .banner_img_slider .banner .on_img_cont h3 {
+    font-size: 30px;
+  }
+  .main .main_banner .whole_banner .banner_sec .count_values .count .counts {
+    padding: 0.5rem 1rem;
+  }
+  .main
+    .main_banner
+    .whole_banner
+    .banner_sec
+    .count_values
+    .count
+    .counts
+    .count_texts {
+    margin: auto;
+    margin-left: 0.5rem;
+  }
+  .main .main_banner .whole_banner .search_type .search_btns {
+    width: 46%;
+  }
+  .main .about_portal_banner .portal_bg {
+    height: 250px;
+  }
+  .main .about_portal_banner .portal_text .portal_left {
+    width: 60%;
+    left: 33%;
+  }
+  .main .about_portal_banner .portal_text .portal_left h5,
+  .main .featured_nurseries h5,
+  .main .nursery_portal .nursery_portal_text h5 {
+    font-size: 20px;
+    margin-bottom: 0.5rem;
+  }
+  .main .about_portal_banner .portal_text .portal_left p {
+    font-size: 14px;
+    line-height: initial;
+  }
+  .main .buyer_sell_section,
+  .main .featured_nurseries {
+    padding: 2rem 1rem;
+  }
+  .main .buyer_sell_section .tabcontent .summary_count .summary_blk {
+    width: 16%;
+  }
+  .main .buyer_sell_section .tabcontent .buy_sell_sliders {
+    margin-top: 1rem;
+  }
+  .main .featured_nurseries .featured_nursery_slider .stars img {
+    width: 55%;
+  }
+  .main .nursery_portal .nursery_portal_bg {
+    height: 350px;
+  }
+  .main .nursery_portal .nursery_portal_text {
+    width: 60%;
+    left: 70%;
+    top: 50%;
+  }
+  .main .nursery_portal .nursery_portal_text p {
+    font-size: 12px;
+  }
+  .footer .footer_one .quick_links,
+  .footer .footer_one .total_visitors {
+    margin-top: 1.5rem;
+  }
+  .footer .footer_one .total_visitors {
+    text-align: left;
+  }
+  .footer .footer_one .total_visitors .footer_social_handles {
+    justify-content: left;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 766px) {
+  .main .main_banner .whole_banner {
+    display: block;
+  }
+  .main .main_banner .whole_banner .banner_sec,
+  .main .main_banner .whole_banner .search_nursery {
+    width: 100%;
+  }
+}
+
+@media (min-width: 501px) and (max-width: 576px) {
+  .footer .footer_one {
+    margin-top: 13rem;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 576px) {
+  .main .first_navbar .log_reg_lang_handles a {
+    font-size: 10px;
+  }
+  .main .first_navbar .contact_details a {
+    font-size: 12px;
+  }
+  .main .third_navbar .navbar ul li:nth-of-type(1) a {
+    padding-left: 25px !important;
+  }
+  .main .portal_right {
+    /* top: 30%;
+    right: 10%; */
+    width: 8rem;
+  }
+  .main .portal_right p {
+    margin-bottom: 0.2rem;
+    font-size: 9px;
+  }
+  .main .first_navbar ul {
+    padding-left: 0;
+    text-align: left;
+    margin-top: 0.7rem;
+    margin-right: 0;
+  }
+  .main .second_navbar {
+    padding: 1rem 0 1rem 0;
+  }
+
+  .main .first_navbar ul li {
+    padding: 0 15px 0 7px;
+  }
+  .main .first_navbar ul li:nth-of-type(1) {
+    padding-left: 0;
+  }
+  .main .second_navbar div div {
+    padding: 0;
+  }
+  .main .second_navbar .main_logos img {
+    width: 90%;
+    margin: 0 auto;
+  }
+  .main .buyer_sell_section .tabcontent .summary_count {
+    display: block;
+  }
+  .main .main_banner .banner_img_slider .banner .on_img_cont h1 {
+    font-size: 26px;
+  }
+  .main .main_banner .banner_img_slider .banner .on_img_cont h3 {
+    font-size: 22px;
+  }
+  .main .main_banner .banner_img_slider .banner .on_img_cont {
+    right: 6%;
+    top: 17%;
+  }
+  .main .main_banner .whole_banner .banner_sec .count_values .count .counts {
+    padding: 0.5rem;
+    display: block;
+    text-align: center;
+  }
+  .main
+    .main_banner
+    .whole_banner
+    .banner_sec
+    .count_values
+    .count
+    .counts
+    .count_texts {
+    margin-left: 0;
+  }
+  .main .main_banner .banner_img_slider .slick-prev svg,
+  .main .main_banner .banner_img_slider .slick-next svg {
+    fill: #fff;
+    width: 1rem;
+    height: 1rem;
+  }
+  .main .main_banner .whole_banner .search_type .search_btns {
+    width: 44%;
+  }
+
+  .slick-dots li {
+    width: 10px;
+    height: 18px;
+  }
+
+  .main .main_banner .whole_banner .banner_sec .count_values .count,
+  .main .main_banner .whole_banner .banner_sec .count_values .count .counts {
+    flex-direction: column;
+  }
+
+  .main .main_banner .whole_banner .banner_sec .count_values .count .counts {
+    width: 100%;
+  }
+
+  .main .main_banner .whole_banner .banner_sec .count_values .count .counts p {
+    font-size: 0.8rem;
+  }
+
+  .main .main_banner .whole_banner .banner_sec .count_values .count .counts h2 {
+    font-size: 1.6rem;
+  }
+
+  .main .main_banner .whole_banner .search_type .search_btns {
+    width: 45%;
+    font-size: 13px;
+  }
+
+  .banner_img_slider .banner .on_img_cont h1 {
+    font-size: 22px !important;
+  }
+  .banner_img_slider .banner .on_img_cont h3 {
+    font-size: 15px !important;
+  }
+
+  /* .main .main_banner .whole_banner .search_type {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+  } */
+
+  /* .main .main_banner .whole_banner .search_type .search_btns {
+    margin: 0;
+  } */
+
+  .main .main_banner .whole_banner .search_type .search_btns:nth-of-type(2),
+  .main .main_banner .whole_banner .search_type .search_btns:nth-of-type(4) {
+    margin-right: 1rem;
+  }
+
+  /* .main .main_banner .whole_banner .search_type .search_btns {
+    margin: 0;
+  } */
+
+  .main .main_banner .whole_banner .search_type .search_form {
+    padding: 0.5rem 1rem;
+  }
+  /* .main .about_portal_banner .portal_bg,
+  .main .nursery_portal .nursery_portal_bg {
+    height: 240px;
+  } */
+
+  .main .about_portal_banner .portal_bg {
+    background-size: auto;
+    background-position: 73% 100%;
+  }
+
+  .main .buyer_sell_section .tab button {
+    font-size: 12px;
+    margin-right: 1.1rem;
+  }
+
+  .main .buyer_sell_section .tabcontent {
+    margin-top: 1.5rem;
+  }
+
+  .main .buyer_sell_section .tabcontent h5 {
+    font-size: 16px;
+    text-align: center;
+  }
+
+  .main
+    .buyer_sell_section
+    .tabcontent
+    .summary_count
+    .summary_blk:not(:last-of-type) {
+    margin-right: 0;
+  }
+
+  .main .buyer_sell_section .tabcontent .summary_count .summary_blk {
+    width: 50% !important;
+  }
+
+  .main .buyer_sell_section .tabcontent .summary_count {
+    display: flex;
+    /* flex-wrap: wrap;
+     */
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .main .buyer_sell_section .tabcontent .view_all_btn button,
+  .main .featured_nurseries .view_all_btn button {
+    font-size: 10px;
+    padding: 7px 33px;
+  }
+
+  .main .featured_nurseries .featured_nursery_slider {
+    grid-template-columns: 100% !important;
+  }
+
+  .main .buyer_sell_section .tabcontent .note {
+    font-size: 12px;
+  }
+
+  .main .featured_nurseries .featured_nursery_slider .card {
+    width: 100% !important;
+  }
+
+  .main .about_portal_banner .portal_text .portal_left {
+    width: 75%;
+    left: 42%;
+  }
+  .main .about_portal_banner .portal_text .portal_left h5,
+  .main .featured_nurseries h5,
+  .main .nursery_portal .nursery_portal_text h5 {
+    font-size: 18px;
+    margin-bottom: 0.5rem;
+  }
+  .main .about_portal_banner .portal_text .portal_left p {
+    font-size: 12px;
+    line-height: initial;
+  }
+  .main .buyer_sell_section,
+  .main .featured_nurseries,
+  .footer {
+    padding: 1rem;
+  }
+  .main .buyer_sell_section .tabcontent .summary_count .summary_blk {
+    width: 43%;
+    display: inline-block;
+  }
+  .main .buyer_sell_section .tabcontent .buy_sell_sliders,
+  .main .featured_nurseries .featured_nursery_slider {
+    margin-top: 1rem;
+  }
+  .main .buyer_sell_section .tabcontent .buy_sell_sliders .card .card_inner,
+  .footer .footer_one .footer_logo_section p {
+    width: 100%;
+  }
+  .main .featured_nurseries .featured_nursery_slider {
+    grid-template-columns: repeat(2, 50%);
+  }
+  .main .featured_nurseries .featured_nursery_slider .card {
+    width: 95%;
+    margin-bottom: 0.5rem;
+  }
+  .main .featured_nurseries .featured_nursery_slider .stars img {
+    width: 65%;
+  }
+  .main .nursery_portal .nursery_portal_text {
+    width: 100%;
+    top: 100%;
+    padding: 1rem;
+    left: 0;
+    background-color: #36b146;
+    transform: none;
+  }
+
+  .main .nursery_portal .custom-img {
+    background: url(../images/footer-img.jpg) no-repeat;
+    height: 33rem;
+    background-position-x: 26%;
+  }
+
+  .main .nursery_portal .nursery_portal_text {
+    text-align: center;
+  }
+
+  .main .nursery_portal .nursery_portal_text h6 {
+    font-size: 0.9rem;
+  }
+  .main .nursery_portal .nursery_portal_text h5,
+  .main .nursery_portal .nursery_portal_text h6 {
+    color: #fff !important;
+  }
+  .main .nursery_portal .nursery_portal_text p {
+    font-size: 12px;
+    width: 100%;
+    color: #fff !important;
+  }
+  .footer .footer_one {
+    /* margin-top: 20rem; */
+    margin-bottom: 2rem;
+  }
+  .footer .footer_one div div {
+    padding: 0;
+  }
+  .footer .footer_one .quick_links {
+    margin-top: 2rem;
+  }
+  .footer .footer_one .total_visitors,
+  .footer .footer_one .footer_logo_section p {
+    text-align: left;
+    margin-top: 1rem;
+  }
+  .footer .footer_one .total_visitors .footer_social_handles {
+    justify-content: left;
+  }
+  .footer .footer_two {
+    text-align: center;
+  }
+  .footer .footer_two ul {
+    text-align: center;
+    padding-left: 0;
+    padding-top: 0.5rem;
+  }
+}
